@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+cookie
+
+# Virtualenv
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Docs / notes / historical POCs
+*.md
+todo
+pocs/
+
+# Build artifacts
+build/
+*.zip

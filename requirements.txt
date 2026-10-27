@@ -1,0 +1,4 @@
+boto3==1.43.116
+requests==2.34.2
+yt-dlp==2026.8.19
+python-dotenv==1.2.4
